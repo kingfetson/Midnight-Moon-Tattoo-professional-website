@@ -471,19 +471,6 @@ h1, h2, h3, h4, h5, h6 {
   transform: translateY(-3px);
 }
 
-/* APP Verify Badge */
-.app-verify {
-  background: #0f0d0a;
-  border-radius: 60px;
-  display: inline-flex;
-  align-items: center;
-  gap: 12px;
-  padding: 10px 26px;
-  font-size: 0.75rem;
-  font-weight: 500;
-  border: 1px solid #3f362c;
-}
-
 /* ---------- FOOTER ---------- */
 .footer-note {
   text-align: center;
